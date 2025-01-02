@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guenwon&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guenwon)](https://github.com/anuraghazra/github-readme-stats)
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guenwon&layout=compact)
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
